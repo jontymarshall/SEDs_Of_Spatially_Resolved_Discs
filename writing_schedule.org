@@ -1,0 +1,415 @@
+* Writing a paper in 12 weeks
+
+** All tasks
+*** 1. Streamline the process
+**** 1.1. Create your paper project plan
+ You can use this space to answer the questions outlined in the task list.  Alternatively, you can use the Create your Paper Writing Project Plan
+ worksheet in Module 1.
+
+ Paper submission date:
+
+ Why do you want your paper submitted by that date?
+
+ When is your deep work time?
+
+ Looking at your calendar until your submission date, which future events may require your attention that aren't captured in your calendar yet? Could you proactively minimise the time and attention you will spend on the event, by e.g. outsourcing?
+
+
+***** 1.1.1. Specify what date you want to submit the paper
+***** 1.1.2. Specify why do you want to have your paper submitted by that date. Elaborate on both external and internal motivations. This will help you stick to your plan.
+***** 1.1.3. Specify your deep work time
+***** 1.1.4. Looking at your calendar until your submission date, specify which future events may require your attention that aren't captured in your calendar yet. Specify how you could proactively minimise the time and attention that you will spend on the event, by e.g. outsourcing
+***** 1.1.5. Looking at your calendar for the weeks until your submission date, count how many writing sessions can you realistically fit in. Create/remove the writting session cards in the weekly list and specify the date and time and the title of each card. Block that time in your calendar.
+***** 1.1.6. Go through all tasks and subtasks specified in this kanban board in the list "all tasks" and add/remove any tasks that would be necessary/not required for your paper
+***** 1.1.7. Estimate how long each task will take you using realistic estimates based on a) previous time tracking (preferred), b) the PERT formula, or c) doupling/tripling initial time estimates. Specify your time estimate next to the task in the task list
+***** 1.1.8. Create a card for each task from the task list and distribute to the different weeks (no need to assign the tasks to different writing sessions yet). You may realise at this stage that you won't have enough time to accomplish all tasks with the available writing sessions. If this is the case, either revise your submission date or clear additional space in your calendar
+**** 1.2. Setting up your writing sessions
+ Where will your write during your writing sessions?
+
+ What will signal the start of each session?
+
+ How will you reward yourself at the end of each writing week? Or how could you make your writing sessions maximally enjoyable?
+
+ Who will you turn to for support during your writing project?
+
+***** 1.2.1. Specify where you will write during your writing sessions. This can be any place of your choice where you can focus well and avoid distractions
+***** 1.2.2. Specify what will the signal be at the start of your writing session. This can be as small as brewing a cup of coffee or putting headphones on.
+***** 1.2.3. Specify how you will reward yourself at the end of each writing week, and/or how you can make you writing sessions maximally enjoyable
+***** 1.2.4. Specify who you will turn to for support during your writing project. This can be a writing buddy, a community, a co-author...
+**** 1.3. Integrate your co-authors in the process
+ Feedback approval required from/when:
+
+***** 1.3.1. Make a list of instances when feedback/approval from someone other than you is required and who that person is (I suggest to loop in all co-authors at the beginning of the writing process, after/during developing the story, after the first full draft is completed).
+***** 1.3.2. Set up meetings or agree on deadlines with the persons involved.
+*** 2. Data exploration and analysis
+**** 2.1 Literature
+***** 2.1.1 Identify relevant literature -- at least ten papers
+***** 2.1.2 Read the five most relevant papers
+**** 2.2 Data analysis preparation
+***** 2.2.1 Set up directory structure of git repository
+***** 2.2.2. Locate data sources and install programs to be used
+**** 2.3 Research plan
+***** 2.3.1 Project dependent: define subtasks below
+***** 2.3.2 Co-author check in -- share plan
+***** 2.3.3. Execute subtasks of research plan
+*** 3. Develop the story
+**** 3.1. Define your (key) findings and central message
+***** 3.1.1. Make a list of all your findings
+***** 3.1.2. Mark those findings that are key findings
+***** 3.1.3. Define your central message
+**** 3.2. Define the target audience
+***** 3.2.1. Make a list of possible journals to submit this paper to
+***** 3.2.2. Ask relevant co-authors or supervisors for opinions/suggestions on the target journal
+***** 3.2.3. For each possible target journal, their aims/scope/mission statement, open science policy, page charges and/or any other parameters that matter to you
+***** 3.2.4. Read/skim-read at least 3 papers as close as possible to your field in each possible target journal
+***** 3.2.5. Make a final decision on your target journal. Optionally, you can note down a 2nd and 3rd choice in case your article gets rejected
+***** 3.2.6. Locate all author instructions and guidelines that your target journal provides and save them in a document in the same folder as your paper (save the links to the websites containing the information too)
+**** 3.3. Create your storyboard
+ Use a whiteboard (physical or software) or pen and paper for storyboarding
+
+
+***** 3.3.1. Draft your figures for the main text
+***** 3.3.2. Draft your figures for the Supporting Information
+***** 3.3.3. Define the key message of each figure
+***** 3.3.4. Arrange the figures in an order that creates a logical argument for the reader
+***** 3.3.5. Specify which data sets you are going to include in each figure
+**** 3.4. Define the problems
+***** 3.4.1. Identify the narrow problem that your paper solves
+***** 3.4.2. Identify the broad problem that your paper contributes to solving
+**** 3.5. Define the key implication
+**** 3.6. Co-author check-in. Reach out to all co-authors and get approval for storyboard and key story elements
+*** 4. Develop each section
+**** 4.1. Develop the results section
+***** 4.1.1. Check the document with author guidelines from the target journal for any restrictions or suggestions regarding the results section
+***** 4.1.2. Create a section outline specifying what will be included in each subsection
+***** 4.1.3. Decide on subsection headings
+***** 4.1.4. Create a paragraph outline for the whole section using the purpose-approach-results-interpretation template [further divide into subtasks, e.g. 1 subtask/figure(panel)]
+***** 4.1.5. Create a list with ideas for the Discussion section and update while you develop your results section
+**** 4.2. Develop the introduction section
+***** 4.2.1. Check the document with author guidelines from the target journal for any restrictions or suggestions regarding the introduction section
+***** 4.2.2. Make a list of all keypoints that you want to make
+***** 4.2.3. Choose appropriate references for each keypoint
+***** 4.2.4. Plan your paragraphs by defining the central message of each paragraph
+***** 4.2.5. Assign each keypoint to a paragraph
+**** 4.3. Develop the Discussion section
+***** 4.3.1. Check the document with author guidelines from the target journal for any restrictions or suggestions regarding the Discussion section
+***** 4.3.2. Brainstorm topics that you want to discuss in your discussion section and update the list that you started when developing the results sections
+***** 4.3.3. Order the topics from narrow to broad
+***** 4.3.4. Plan your paragraphs by defining the central message of each paragraph
+*** 5. First draft
+**** 5.1. Create all figures and tables
+***** 5.1.1. Check the document with author guidelines from the target journal for any restrictions or suggestion regarding the Figures/Tables and their captions
+***** 5.1.2. Create submittable versions of all your Figures & Tables (without perfecting every little detail) [divide this further into subtasks, e.g. 1 figure panel per subtask]. Create scripts to reproduce the figures and tables.
+***** 5.1.3. Write all captions
+**** 5.2. Write the methods section
+***** 5.2.1. Check the document with author guidelines from the target journal for any restrictions or suggestions regarding the methods section
+***** 5.2.2. Specify subsections that are aligned with those in the results
+***** 5.2.3. Write a rough draft of the methods section
+***** 5.2.4. Create a script that can reproduce all steps
+***** 5.2.5. Fill in all details (exact parameters, etc.)
+**** 5.3. Write the results section
+***** 5.3.1. Use your outline to write a first draft of the results section [further divide this into subtasks, e.g. 1 subtask per figure]
+***** 5.3.2. Write an introductory context for understanding the results by restating the research problem that underpins the purpose of the study
+***** 5.3.3. Update the list of topics for the discussion section when you get an idea
+**** 5.4. Write introduction section
+***** 5.4.1. Write the first sentence of the introduction section
+***** 5.4.2. Write your wrap-up-story paragraph
+***** 5.4.3. Write a first draft of your introduction section following your outline
+**** 5.5. Write a draft of your discussion section following your outline
+*** 6. Self-editing
+**** 6.1. Story editing
+***** 6.1.1. Make sure that the central message, narrow and broad problem, key findings and key implications tell a coherent story
+***** 6.1.2. Make sure that everything included in the paper is directly related to your story (no side-tracks) [this can be further divided into subtasks, e.g. 1 subtask for each section/subsection]
+**** 6.2. Co-author check-in: send your first completed draft to your co-authors for feedback/comments
+**** 6.3. Paragraph & Flow editing
+***** 6.3.1. Make sure that no paragraph exceeds 200 words
+***** 6.3.2. Make sure that each paragraph communicates a clear central message
+***** 6.3.3. Make sure that the first sentence of each paragraph sets up the content of the paragraph
+***** 6.3.4. Make sure that the writing flows within each paragraph [divide this further into subtasks, e.g. 1 subtask for 1-3 paragraphs]
+**** 6.4 Clarity & concision editing
+***** 6.4.1. Make sure that each sentence has adequate length [further divide this into subtasks, e.g. 1 subtask for each subsection]
+***** 6.4.2. Make sure that synonyms are used consistently
+***** 6.4.3. Make sure that there isn't any clutter [further divide this into subtasks, e.g. 1 subtask for each subsection]
+***** 6.4.4. Make sure that verbs are used instead of nouns whenever possible [further divide this into subtasks, e.g. 1 subtask for each subsection]
+***** 6.4.5. Make sure that the verb tense is correct [further divide this into subtasks, e.g. 1 subtask for each subsection]
+**** 6.5 Format editing
+***** 6.5.1. Make sure that references are in the correct style
+***** 6.5.2. Make sure that author names and affiliations are correct
+*** 7. Package for publication
+**** 7.1. Craft a paper title
+**** 7.2. Write a paper abstract
+**** 7.3. Prepare code/data repository
+**** 7.4.  Proof-read
+**** 7.5. Co-author check-in
+**** 7.6. Submit
+*** Weekly / final review
+**** Specify what worked well
+**** Specify what didn't work well
+**** Specify above which unexpected situations arose that hampered your writing progress and whether you need to adapt your plan to account for similar situations in the future
+**** Update any time estimates based on your experience this week
+**** Move the tasks you didn't get done to next week
+**** Assign next week's tasks to the respective writing sessions
+**** Adapt the plan for the remaining weeks if necessary
+**** All done for this week!! Reward yourself :-)
+**** Have you submitted your paper? Time for a big reward!
+** Week 1
+*** Writing session 1: [Day, time]
+**** 1.1.1. Specify what date you want to submit the paper
+**** 1.1.2. Specify why do you want to have your paper submitted by that date. Elaborate on both external and internal motivations. This will help you stick to your plan.
+**** 1.1.3. Specify your deep work time
+**** 1.1.4. Looking at your calendar until your submission date, specify which future events may require your attention that aren't captured in your calendar yet. Specify how you could proactively minimise the time and attention that you will spend on the event, by e.g. outsourcing
+*** Writing session 2: [Day, time]
+**** 1.1.5. Looking at your calendar for the weeks until your submission date, count how many writing sessions can you realistically fit in. Create/remove the writting session cards in the weekly list and specify the date and time and the title of each card. Block that time in your calendar.
+**** 1.1.6. Go through all tasks and subtasks specified in this kanban board in the list "all tasks" and add/remove any tasks that would be necessary/not required for your paper
+**** 1.1.7. Estimate how long each task will take you using realistic estimates based on a) previous time tracking (preferred), b) the PERT formula, or c) doupling/tripling initial time estimates. Specify your time estimate next to the task in the task list
+**** 1.1.8. Create a card for each task from the task list and distribute to the different weeks (no need to assign the tasks to different writing sessions yet). You may realise at this stage that you won't have enough time to accomplish all tasks with the available writing sessions. If this is the case, either revise your submission date or clear additional space in your calendar
+*** Writing session 3: [Day, time]
+**** 1.2.1. Specify where you will write during your writing sessions. This can be any place of your choice where you can focus well and avoid distractions
+**** 1.2.2. Specify what will the signal be at the start of your writing session. This can be as small as brewing a cup of coffee or putting headphones on.
+**** 1.2.3. Specify how you will reward yourself at the end of each writing week, and/or how you can make you writing sessions maximally enjoyable
+**** 1.2.4. Specify who you will turn to for support during your writing project. This can be a writing buddy, a community, a co-author...
+**** 1.3.1. Make a list of instances when feedback/approval from someone other than you is required and who that person is (I suggest to loop in all co-authors at the beginning of the writing process, after/during developing the story, after the first full draft is completed).
+**** 1.3.2. Set up meetings or agree on deadlines with the persons involved.
+*** Writing session 4: [Day, time]
+**** 2.1.1. Identify relevant literature -- at least ten papers
+*** Writing session 5: [Day, time]
+**** 2.1.2. Read the five most relevant papers
+**** Weekly review
+***** Specify what worked well
+***** Specify what didn't work well
+***** Specify above which unexpected situations arose that hampered your writing progress and whether you need to adapt your plan to account for similar situations in the future
+***** Update any time estimates based on your experience this week
+***** Move the tasks you didn't get done to next week
+***** Assign next week's tasks to the respective writing sessions
+***** Adapt the plan for the remaining weeks if necessary
+***** All done for this week!! Reward yourself :-)
+** Week 2
+*** Writing session 1: [Day, time]
+**** 2.1.2 Continued
+*** Writing session 2: [Day, time]
+**** 2.2.1 Set up directory structure of git repository
+*** Writing session 3: [Day, time]
+**** 2.2.2. Locate data sources and install programs to be used
+*** Writing session 4: [Day, time]
+**** 2.3.1. Define project plan and subtasks. Make separate bullets for each subtask
+*** Writing session 5: [Day, time]
+**** 2.3.2 Co-author check-in. Share plan
+**** 2.3.3. Execute subtasks of research plan
+**** Weekly review
+***** Specify what worked well
+***** Specify what didn't work well
+***** Specify above which unexpected situations arose that hampered your writing progress and whether you need to adapt your plan to account for similar situations in the future
+***** Update any time estimates based on your experience this week
+***** Move the tasks you didn't get done to next week
+***** Assign next week's tasks to the respective writing sessions
+***** Adapt the plan for the remaining weeks if necessary
+***** All done for this week!! Reward yourself :-)
+** Week 3
+*** Writing session 1: [Day, time]
+*** Writing session 2: [Day, time]
+*** Writing session 3: [Day, time]
+*** Writing session 4: [Day, time]
+*** Writing session 5: [Day, time]
+**** Weekly review
+***** Specify what worked well
+***** Specify what didn't work well
+***** Specify above which unexpected situations arose that hampered your writing progress and whether you need to adapt your plan to account for similar situations in the future
+***** Update any time estimates based on your experience this week
+***** Move the tasks you didn't get done to next week
+***** Assign next week's tasks to the respective writing sessions
+***** Adapt the plan for the remaining weeks if necessary
+***** All done for this week!! Reward yourself :-)
+** Week 4
+*** Writing session 1: [Day, time]
+*** Writing session 2: [Day, time]
+*** Writing session 3: [Day, time]
+*** Writing session 4: [Day, time]
+*** Writing session 5: [Day, time]
+**** Weekly review
+***** Specify what worked well
+***** Specify what didn't work well
+***** Specify above which unexpected situations arose that hampered your writing progress and whether you need to adapt your plan to account for similar situations in the future
+***** Update any time estimates based on your experience this week
+***** Move the tasks you didn't get done to next week
+***** Assign next week's tasks to the respective writing sessions
+***** Adapt the plan for the remaining weeks if necessary
+***** All done for this week!! Reward yourself :-)
+** Week 5
+*** Writing session 1: [Day, time]
+*** Writing session 2: [Day, time]
+*** Writing session 3: [Day, time]
+*** Writing session 4: [Day, time]
+*** Writing session 5: [Day, time]
+**** Weekly review
+***** Specify what worked well
+***** Specify what didn't work well
+***** Specify above which unexpected situations arose that hampered your writing progress and whether you need to adapt your plan to account for similar situations in the future
+***** Update any time estimates based on your experience this week
+***** Move the tasks you didn't get done to next week
+***** Assign next week's tasks to the respective writing sessions
+***** Adapt the plan for the remaining weeks if necessary
+***** All done for this week!! Reward yourself :-)
+** Week 6
+*** Writing session 1: [Day, time]
+*** Writing session 2: [Day, time]
+*** Writing session 3: [Day, time]
+*** Writing session 4: [Day, time]
+**** 2.1.1. Make a list of all your findings
+**** 2.1.2. Mark those findings that are key findings
+**** 2.1.3. Define your central message
+*** Writing session 5: [Day, time]
+**** 2.2.1. Make a list of possible journals to submit this paper to
+**** 2.2.2. Ask relevant co-authors or supervisors for opinions/suggestions on the target journal
+**** 2.2.3. For each possible target journal, look up the journal impact factor, their aims/scope/mission statement, readership, speed to publication and/or any other parameters that matter to you
+**** Weekly review
+***** Specify what worked well
+***** Specify what didn't work well
+***** Specify above which unexpected situations arose that hampered your writing progress and whether you need to adapt your plan to account for similar situations in the future
+***** Update any time estimates based on your experience this week
+***** Move the tasks you didn't get done to next week
+***** Assign next week's tasks to the respective writing sessions
+***** Adapt the plan for the remaining weeks if necessary
+***** All done for this week!! Reward yourself :-)
+** Week 7
+*** Writing session 1: [Day, time]
+**** 3.1.1. Check the document with author guidelines from the target journal for any restrictions or suggestions regarding the results section
+**** 3.1.2. Create a section outline specifying what will be included in each subsection
+**** 3.1.3. Decide on subsection headings
+*** Writing session 2: [Day, time]
+**** 3.1.4. Create a paragraph outline for the whole section using the purpose-approach-results-interpretation template [further divide into subtasks, e.g. 1 subtask/figure(panel)]
+**** 3.1.5. Create a list with ideas for the Discussion section and update while you develop your results section
+*** Writing session 3: [Day, time]
+*** Writing session 4: [Day, time]
+*** Writing session 5: [Day, time]
+**** Weekly review
+***** Specify what worked well
+***** Specify what didn't work well
+***** Specify above which unexpected situations arose that hampered your writing progress and whether you need to adapt your plan to account for similar situations in the future
+***** Update any time estimates based on your experience this week
+***** Move the tasks you didn't get done to next week
+***** Assign next week's tasks to the respective writing sessions
+***** Adapt the plan for the remaining weeks if necessary
+***** All done for this week!! Reward yourself :-)
+** Week 8
+*** Writing session 1: [Day, time]
+**** 3.2.1. Check the document with author guidelines from the target journal for any restrictions or suggestions regarding the introduction section
+**** 3.2.2. Make a list of all keypoints that you want to make
+*** Writing session 2: [Day, time]
+**** 3.2.3. Choose appropriate references for each keypoint
+**** 3.2.4. Plan your paragraphs by defining the central message of each paragraph
+**** 3.2.5. Assign each keypoint to a paragraph
+*** Writing session 3: [Day, time]
+*** Writing session 4: [Day, time]
+**** 3.3.1. Check the document with author guidelines from the target journal for any restrictions or suggestions regarding the Discussion section
+**** 3.3.2. Brainstorm topics that you want to discuss in your discussion section and update the list that you started when developing the results sections
+*** Writing session 5: [Day, time]
+**** 3.3.3. Order the topics from narrow to broad
+**** 3.3.4. Plan your paragraphs by defining the central message of each paragraph
+**** Weekly review
+***** Specify what worked well
+***** Specify what didn't work well
+***** Specify above which unexpected situations arose that hampered your writing progress and whether you need to adapt your plan to account for similar situations in the future
+***** Update any time estimates based on your experience this week
+***** Move the tasks you didn't get done to next week
+***** Assign next week's tasks to the respective writing sessions
+***** Adapt the plan for the remaining weeks if necessary
+***** All done for this week!! Reward yourself :-)
+** Week 9
+*** Writing session 1: [Day, time]
+**** 4.1.1. Check the document with author guidelines from the target journal for any restrictions or suggestion regarding the Figures/Tables and their captions
+**** 4.1.2. Create submittable versions of all your Figures & Tables (without perfecting every little detail) [divide this further into subtasks, e.g. 1 figure panel per subtask]. Create scripts to reproduce the figures and tables.
+*** Writing session 2: [Day, time]
+*** Writing session 3: [Day, time]
+*** Writing session 4: [Day, time]
+**** 4.1.3. Write all captions
+*** Writing session 5: [Day, time]
+**** 4.2.1. Check the document with author guidelines from the target journal for any restrictions or suggestions regarding the methods section
+**** 4.2.2. Specify subsections that are aligned with those in the results
+**** 4.2.3. Write a rough draft of the methods section
+**** Weekly review
+***** Specify what worked well
+***** Specify what didn't work well
+***** Specify above which unexpected situations arose that hampered your writing progress and whether you need to adapt your plan to account for similar situations in the future
+***** Update any time estimates based on your experience this week
+***** Move the tasks you didn't get done to next week
+***** Assign next week's tasks to the respective writing sessions
+***** Adapt the plan for the remaining weeks if necessary
+***** All done for this week!! Reward yourself :-)
+** Week 10
+*** Writing session 1: [Day, time]
+**** 4.2.4. Create a script that can reproduce all steps
+*** Writing session 2: [Day, time]
+**** 4.2.5. Fill in all details (exact parameters, etc.)
+*** Writing session 3: [Day, time]
+**** 4.3.1. Use your outline to write a first draft of the results section [further divide this into subtasks, e.g. 1 subtask per figure]
+**** 4.3.2. Write an introductory context for understanding the results by restating the research problem that underpins the purpose of the study
+**** 4.3.3. Update the list of topics for the discussion section when you get an idea
+*** Writing session 4: [Day, time]
+**** 4.4.1. Write the first sentence of the introduction section
+**** 4.4.2. Write your wrap-up-story paragraph
+**** 4.4.3. Write a first draft of your introduction section following your outline
+*** Writing session 5: [Day, time]
+**** 4.5. Write a draft of your discussion section following your outline
+**** Weekly review
+***** Specify what worked well
+***** Specify what didn't work well
+***** Specify above which unexpected situations arose that hampered your writing progress and whether you need to adapt your plan to account for similar situations in the future
+***** Update any time estimates based on your experience this week
+***** Move the tasks you didn't get done to next week
+***** Assign next week's tasks to the respective writing sessions
+***** Adapt the plan for the remaining weeks if necessary
+***** All done for this week!! Reward yourself :-)
+** Week 11
+*** Writing session 1: [Day, time]
+**** 5.1.1. Make sure that the central message, narrow and broad problem, key findings and key implications tell a coherent story
+**** 5.1.2. Make sure that everything included in the paper is directly related to your story (no side-tracks) [this can be further divided into subtasks, e.g. 1 subtask for each section/subsection]
+*** Writing session 2: [Day, time]
+**** 5.2. Co-author check-in: send your first completed draft to your co-authors for feedback/comments
+**** 5.3.1. Make sure that no paragraph exceeds 200 words
+**** 5.3.2. Make sure that each paragraph communicates a clear central message
+**** 5.3.3. Make sure that the first sentence of each paragraph sets up the content of the paragraph
+*** Writing session 3: [Day, time]
+**** 5.3.4. Make sure that the writing flows within each paragraph [divide this further into subtasks, e.g. 1 subtask for 1-3 paragraphs]
+**** 5.4.1. Make sure that each sentence has adequate length [further divide this into subtasks, e.g. 1 subtask for each subsection]
+*** Writing session 4: [Day, time]
+**** 5.4.2. Make sure that synonyms are used consistently
+**** 5.4.3. Make sure that there isn't any clutter [further divide this into subtasks, e.g. 1 subtask for each subsection]
+*** Writing session 5: [Day, time]
+**** 5.4.4. Make sure that verbs are used instead of nouns whenever possible [further divide this into subtasks, e.g. 1 subtask for each subsection]
+**** 5.4.5. Make sure that the verb tense is correct [further divide this into subtasks, e.g. 1 subtask for each subsection]
+**** Weekly review
+***** Specify what worked well
+***** Specify what didn't work well
+***** Specify above which unexpected situations arose that hampered your writing progress and whether you need to adapt your plan to account for similar situations in the future
+***** Update any time estimates based on your experience this week
+***** Move the tasks you didn't get done to next week
+***** Assign next week's tasks to the respective writing sessions
+***** Adapt the plan for the remaining weeks if necessary
+***** All done for this week!! Reward yourself :-)
+** Week 12
+*** Writing session 1: [Day, time]
+**** 5.5.1. Make sure that each section is within the word limit
+**** 5.5.2. Make sure that each caption is within the word limit
+**** 5.5.3. Make sure that references are in the correct style
+**** 5.5.4 Make sure that author names and affiliations are correct
+*** Writing session 2: [Day, time]
+**** 6.1. Craft a paper title
+**** 6.2. Write a paper abstract
+*** Writing session 3: [Day, time]
+**** 6.3. Write a cover letter
+**** 6.4. Prepare code/data repository
+*** Writing session 4: [Day, time]
+**** 6.5. Proof-read
+**** 6.6. Co-author check-in
+*** Writing session 5: [Day, time]
+**** 6.7. Submit
+**** Weekly review
+***** Specify what worked well
+***** Specify what didn't work well
+***** Specify above which unexpected situations arose that hampered your writing progress and whether you need to adapt your plan to account for similar situations in the future
+***** Update any time estimates based on your experience this week
+***** Move the tasks you didn't get done to next week
+***** Assign next week's tasks to the respective writing sessions
+***** Adapt the plan for the remaining weeks if necessary
+***** All done for this week!! Reward yourself :-)
+***** Have you submitted your paper? Time for a big reward!
