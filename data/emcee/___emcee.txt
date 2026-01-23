@@ -1,0 +1,1 @@
+In this folder we have the emcee chains objects for radiative transfer modelling of each system.

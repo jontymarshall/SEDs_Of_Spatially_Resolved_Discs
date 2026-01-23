@@ -1,0 +1,1 @@
+Radiative transfer modelling was carried out using the 1-D analytical radiative transfer code {\sc artefact} (Marshall+ 2023). The version of {\sc artefact} used in this work is included in this folder along with an example input file and the optical constants for astronomical silicate (Draine 2003).

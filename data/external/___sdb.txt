@@ -1,0 +1,1 @@
+JSON files containing summaries of the target properties, stellar photosphere models, and photometric measurements are available for download from the Stellar Database (https://sdb.drgmk.com/), maintained by Dr. Grant Kennedy.

@@ -1,0 +1,11 @@
+numpy
+scipy
+lmfit
+matplotlib
+astropy
+emcee
+corner
+json
+pandas
+miepython
+numba
