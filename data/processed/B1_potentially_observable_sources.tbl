@@ -14,7 +14,7 @@
 # - {name: inc (deg), datatype: float64}
 # - {name: pa (deg), datatype: float64}
 # schema: astropy-2.0
-Target "Distance (pc)" "Distance error (pc)" "RA (deg)" "DEC (deg)" "Flux B1 (uJy)" "upFlux B1 (uJy)" "udFlux B1 (uJy)" "Radius (au)" "Width (au)" "inc (deg)" "pa (deg)"
+Target "Distance (pc)" "Distance error (pc)" "RA (deg)" "DEC (deg)" "Flux B1 (uJy)" "upFlux B1 (uJy)" "udFlux B1 (uJy)" "Radius (au)" "Width (au)" "pa (deg)" "inc (deg)"
 GJ3760 24.691358024691358 3.709665150597292 196.37449416791668 37.13627970861111 17.597973538580543 6.266810341396097 2.311034977296168 59.5 34.3 55.8 70.5
 HD197481 9.909820272610785 0.10520164900320772 311.28971873921626 -31.34089941384472 60.637083104447484 17.76840163039216 12.635980819473646 34.9 12.4 128.54 88.4
 TYC93404371 36.536352551606605 0.35040427193121815 340.70389177422 -71.70588885193 25.629615871776323 17.34792061825415 8.119167381259881 130.0 100.0 130.0 40.0
